@@ -1,4 +1,4 @@
-# Transmute — Samples & Examples
+# Transmute: Samples & Examples
 
 Sample files for testing conversions and example API scripts for common [Transmute](https://github.com/transmute-app) workflows.
 
