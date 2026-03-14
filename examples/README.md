@@ -1,4 +1,4 @@
-# Transmute API — Examples
+# Transmute API: Examples
 
 Example scripts demonstrating every major API workflow in multiple languages.
 
